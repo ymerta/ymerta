@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yakup Mert Akan
 
-🎓 AI-focused Software Engineer | 💡 Deep Learning, Machine Learning & LLM Enthusiast | 🌍 Lifelong Learner 
+🎓 AI-focused Software Engineer | 💡 Deep Learning, Machine Learning & LLM Enthusiast 
 
 I'm a software engineer based in Ankara, Turkey. I graduated from TED University with a degree in Software Engineering and a minor in Applied Data Analytics. Currently, I'm working as an **AI Engineering Intern at Netmera**, where I develop chatbot solutions and AI-powered automation for internal departments such as **Customer Success and Marketing**.
 
