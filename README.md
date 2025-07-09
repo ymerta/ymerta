@@ -23,7 +23,7 @@ I'm passionate about building smart, scalable systems using **Python, ML/DL fram
 ## 🌟 Featured Projects
 
 - 🔍 **[SafeScope](https://ymerta.github.io/safescope)**  
-  AI-powered PPE Detection & Worker-Machine Proximity Monitoring system for construction sites using YOLOv8, Firebase and React.
+  An AI-powered PPE Detection & Worker-Machine Proximity Monitoring system for construction sites using YOLOv8, Firebase, and React. The system includes a future-oriented proximity estimation module based on monocular vision. I shared technical details, architecture, and future research directions in my [Medium article](https://medium.com/@ymertakan/ai-for-construction-safety-real-time-ppe-and-proximity-monitoring-system-b9cf1d2f904f).
 
 - 🎮 **[Celestial Enigma – Unity Game](https://github.com/ymerta/Celestial-Enigma-Unity-Game)**  
   A puzzle-based 2.5D to isometric camera transition game developed in Unity. Features maze navigation, atmospheric environments and interactive level design.
