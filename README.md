@@ -35,7 +35,6 @@ I'm passionate about building smart, scalable systems using **Python, ML/DL fram
 
 ## 📈 GitHub Stats
 
-![Yakup's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ymerta&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ymerta&layout=compact)
 
 ---
